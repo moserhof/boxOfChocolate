@@ -1,2 +1,1 @@
-## A random assortment of things
-
+## A delicious assortment of code snippets and algorithms
