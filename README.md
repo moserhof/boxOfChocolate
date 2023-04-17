@@ -1,13 +1,11 @@
 # 🍫🍫🍫 | Konnichiwa
 
-## Momma always said programming was like a box of chocolates, you never know what you're gonna get.
+## This repo is like a box of chocolates, you never know what you're gonna get.
 
-A delicious assortment of my learnings. 
+A delicious assortment of random learnings. 
 
-_Each folder will house a different programming aspect based on subject. To be as helpful as possible, I'll try to include the following_:
+_Each folder will house a different programming aspect based on subject. I'll try to include the following_:
 
 * The programming language(__s__) used
-* Documentation links
-* Code comments
 * Visual screenshots
 * Live demos
